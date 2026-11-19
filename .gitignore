@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+scholarlens.db
+scholarlens.db-wal
+scholarlens.db-shm
+__pycache__/

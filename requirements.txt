@@ -1,0 +1,15 @@
+streamlit
+sentence-transformers
+transformers
+torch
+datasets
+scikit-learn
+pandas
+numpy
+pypdf
+groq
+joblib
+plotly
+sentencepiece
+sacremoses
+nltk
